@@ -2,6 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import random
 
+
 class Maze:
     def __init__(self, rows, cols):
         self.rows = rows
